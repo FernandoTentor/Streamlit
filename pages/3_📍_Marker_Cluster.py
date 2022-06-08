@@ -13,7 +13,7 @@ st.sidebar.info(markdown)
 logo = "https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"
 st.sidebar.image(logo)
 
-st.title("Marker Cluster 1")
+st.title("Marker Cluster")
 
 with st.expander("See source code"):
     with st.echo():
